@@ -10,8 +10,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunterSouvik&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  ##
-<!---
-HunterSouvik/HunterSouvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div>
+  <a href="https://discord.gg/UbV5sk792x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.youtube.com/c/huntersouvik" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.instagram.com/thesouviksarkar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.buymeacoffee.com/huntersouvik" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</div>
+    
+##
 
