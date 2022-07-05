@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... gaming
 - 🌱 I’m currently learning ... fivem devloping
 - 💞️ I’m looking to collaborate on ... youtube
-- 📫 How to reach me ... type in youtube my name
+- 😅 I'm a wannabe dev that is too lazy and is still learning the basic
+- ❤️ I love to help people with some Fivem Development basic issues and do some simple scripts
+- 🧡 In love with QBCore <3
 
 <!---
 HunterSouvik/HunterSouvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
