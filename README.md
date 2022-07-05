@@ -7,6 +7,10 @@
 - 🧡 In love with QBCore <3
 
  ##
+## Discord Servers (Click To Join)
+[![Hunter Souvik](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/UbV5sk792x
+
+
 
 <div>
   <a href="https://discord.gg/UbV5sk792x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor&logoColor=white">
