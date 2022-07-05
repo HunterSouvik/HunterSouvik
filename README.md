@@ -9,7 +9,7 @@
  ##
 
 <div>
-  <a href="https://discord.gg/UbV5sk792x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.gg/UbV5sk792x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=HunterSouvik&logoColor=white">
   <a href="https://www.youtube.com/c/huntersouvik" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <a href="https://www.instagram.com/thesouviksarkar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://www.buymeacoffee.com/huntersouvik" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
