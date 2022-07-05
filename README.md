@@ -8,7 +8,7 @@
 
  ##
 ## Discord Servers (Click To Join)
-[![Hunter Souvik](https://discordapp.com/api/guilds/947322449270292480/widget.png?style=banner2)](https://discord.gg/UbV5sk792x)
+[![Hunter Souvik](https://discord.gg/UbV5sk792x)
 
 
 
