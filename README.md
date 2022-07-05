@@ -7,8 +7,6 @@
 - 🧡 In love with QBCore <3
 
  ##
-## Discord Servers (Click To Join)
-[![Hunter Souvik](https://discord.gg/UbV5sk792x)
 
 
 
