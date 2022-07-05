@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HunterSouvik
+- 👋 Hi, I’m Hunter Souvik
 - 👀 I’m interested in ... gaming
 - 🌱 I’m currently learning ... fivem devloping
 - 💞️ I’m looking to collaborate on ... youtube
