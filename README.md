@@ -61,6 +61,9 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="40" alt="xml logo"  />
   <img width="12" />
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
